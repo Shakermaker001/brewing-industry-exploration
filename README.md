@@ -1,2 +1,2 @@
 # brewing-industry-exploration
-Exploratory analysis of Brewing industry datasets.
+Exploratory analysis of brewing industry datasets.
